@@ -1,0 +1,46 @@
+[
+	{
+		"Rank": "Easy   ",
+		"life": "5",
+		"bomb": "4",
+		"timethreshould": "40",
+		"bulletrain_time": "8",
+        "bulletrain_density": "9",
+        "bulletrain_speed": "10",
+        "bullet_freq": "17",
+        "bomb_param": "6"
+	},
+	{
+		"Rank": "Normal ",
+		"life": "5",
+		"bomb": "4",
+		"timethreshould": "30",
+		"bulletrain_time": "10",
+        "bulletrain_density": "9",
+        "bulletrain_speed": "10",
+        "bullet_freq": "17",
+        "bomb_param": "6"
+	},
+    {
+          "Rank": "Hard   ",
+          "life": "5",
+          "bomb": "4",
+          "timethreshould": "30",
+          "bulletrain_time": "12",
+          "bulletrain_density": "9",
+          "bulletrain_speed": "12",
+          "bullet_freq": "17",
+          "bomb_param": "3"
+      },
+      {
+          "Rank": "Lunatic",
+          "life": "5",
+          "bomb": "4",
+          "timethreshould": "20",
+          "bulletrain_time": "24",
+          "bulletrain_density": "18",
+          "bulletrain_speed": "14",
+          "bullet_freq": "13",
+          "bomb_param": "3"
+      }
+]
